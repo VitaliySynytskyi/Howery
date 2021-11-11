@@ -1,0 +1,96 @@
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Bold Ext';
+    src: url('AkzidenzGroteskPro-BoldExIt.eot');
+    src: local('Akzidenz-Grotesk Pro BoldExtIt'), local('AkzidenzGroteskPro-BoldExIt'),
+        url('AkzidenzGroteskPro-BoldExIt.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-BoldExIt.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-BoldExIt.woff') format('woff'),
+        url('AkzidenzGroteskPro-BoldExIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med Ext';
+    src: url('AkzidenzGroteskPro-MdEx.eot');
+    src: local('Akzidenz-Grotesk Pro Med Ext'), local('AkzidenzGroteskPro-MdEx'),
+        url('AkzidenzGroteskPro-MdEx.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-MdEx.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-MdEx.woff') format('woff'),
+        url('AkzidenzGroteskPro-MdEx.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med';
+    src: url('AkzidenzGroteskPro-Md.eot');
+    src: local('Akzidenz-Grotesk Pro Med'), local('AkzidenzGroteskPro-Md'),
+        url('AkzidenzGroteskPro-Md.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-Md.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-Md.woff') format('woff'),
+        url('AkzidenzGroteskPro-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med';
+    src: url('AkzidenzGroteskPro-MdIt.eot');
+    src: local('Akzidenz-Grotesk Pro MedItal'), local('AkzidenzGroteskPro-MdIt'),
+        url('AkzidenzGroteskPro-MdIt.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-MdIt.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-MdIt.woff') format('woff'),
+        url('AkzidenzGroteskPro-MdIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Bold Ext';
+    src: url('AkzidenzGroteskPro-BoldEx.eot');
+    src: local('Akzidenz-Grotesk Pro Bold Ext'), local('AkzidenzGroteskPro-BoldEx'),
+        url('AkzidenzGroteskPro-BoldEx.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-BoldEx.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-BoldEx.woff') format('woff'),
+        url('AkzidenzGroteskPro-BoldEx.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med Cnd';
+    src: url('AkzidenzGroteskPro-MdCnIt.eot');
+    src: local('Akzidenz-Grotesk Pro MedCndIt'), local('AkzidenzGroteskPro-MdCnIt'),
+        url('AkzidenzGroteskPro-MdCnIt.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-MdCnIt.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-MdCnIt.woff') format('woff'),
+        url('AkzidenzGroteskPro-MdCnIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med Ext';
+    src: url('AkzidenzGroteskPro-MedExtIt.eot');
+    src: local('Akzidenz-Grotesk Pro MedExtIt'), local('AkzidenzGroteskPro-MedExtIt'),
+        url('AkzidenzGroteskPro-MedExtIt.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-MedExtIt.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-MedExtIt.woff') format('woff'),
+        url('AkzidenzGroteskPro-MedExtIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzidenz-Grotesk Pro Med Cnd';
+    src: url('AkzidenzGroteskPro-MdCn.eot');
+    src: local('Akzidenz-Grotesk Pro Med Cnd'), local('AkzidenzGroteskPro-MdCn'),
+        url('AkzidenzGroteskPro-MdCn.eot?#iefix') format('embedded-opentype'),
+        url('AkzidenzGroteskPro-MdCn.woff2') format('woff2'),
+        url('AkzidenzGroteskPro-MdCn.woff') format('woff'),
+        url('AkzidenzGroteskPro-MdCn.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
