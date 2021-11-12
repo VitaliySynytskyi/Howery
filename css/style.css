@@ -9,6 +9,8 @@ html {
 	background: url(../background.png) no-repeat center center;
 	min-height: 100%;
 	background-size: cover;
+	overflow-y: hidden;
+	overflow-x: hidden;
 }
 
 h1 { font-family: Akzidenz-Grotesk Pro Bold Ext;
@@ -43,9 +45,10 @@ p {  font-size: 23.04px; font-family: Akzidenz-Grotesk Pro Med;
 }
 
 .discord { color: white; font-size: 20px; font-family: Akzidenz-Grotesk Pro Med; 
- background: linear-gradient(90deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.32) 100%);
+ background: linear-gradient(90deg, rgba(255, 255, 255, 0.24) 0%, rgba(255, 255, 255, 0.48) 50%, rgba(255, 255, 255, 0.24) 100%);
 	 -webkit-background-clip: text;
 	 -webkit-text-fill-color: transparent;
+	 opacity: 50%;
 	 position: absolute; bottom: 25px; left: 0px; width: 100%
 }
 
