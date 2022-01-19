@@ -47,7 +47,7 @@ p {  font-size: 23.04px; font-family: Akzidenz-Grotesk Pro Med;
 	 -webkit-background-clip: text;
 	 -webkit-text-fill-color: transparent;
 	 opacity: 50%;
-	 position: absolute; bottom: 25px; left: 0px; width: 100%
+	 position: fixed; bottom: 25px; left: 0px; width: 100%
 }
 
 
